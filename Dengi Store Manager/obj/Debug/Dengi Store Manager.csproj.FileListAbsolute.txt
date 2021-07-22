@@ -1,0 +1,25 @@
+C:\Users\Bcwin\source\repos\Dengi Store Manager\Dengi Store Manager\bin\Debug\Dengi Store Manager.exe.config
+C:\Users\Bcwin\source\repos\Dengi Store Manager\Dengi Store Manager\bin\Debug\Dengi Store Manager.exe
+C:\Users\Bcwin\source\repos\Dengi Store Manager\Dengi Store Manager\bin\Debug\Dengi Store Manager.pdb
+C:\Users\Bcwin\source\repos\Dengi Store Manager\Dengi Store Manager\obj\Debug\Dengi_Store_Manager.AuthWindow.resources
+C:\Users\Bcwin\source\repos\Dengi Store Manager\Dengi Store Manager\obj\Debug\Dengi_Store_Manager.Properties.Resources.resources
+C:\Users\Bcwin\source\repos\Dengi Store Manager\Dengi Store Manager\obj\Debug\Dengi Store Manager.csproj.GenerateResource.cache
+C:\Users\Bcwin\source\repos\Dengi Store Manager\Dengi Store Manager\obj\Debug\Dengi Store Manager.csproj.CoreCompileInputs.cache
+C:\Users\Bcwin\source\repos\Dengi Store Manager\Dengi Store Manager\obj\Debug\Dengi Store Manager.exe
+C:\Users\Bcwin\source\repos\Dengi Store Manager\Dengi Store Manager\obj\Debug\Dengi Store Manager.pdb
+C:\Users\Bcwin\source\repos\Dengi Store Manager\Dengi Store Manager\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Bcwin\source\repos\Dengi Store Manager\Dengi Store Manager\obj\Debug\Dengi Store Manager.csproj.CopyComplete
+C:\Users\Bcwin\source\repos\Dengi Store Manager\Dengi Store Manager\obj\Debug\Dengi_Store_Manager.Form_fragments.DataForm.resources
+C:\Users\Bcwin\source\repos\Dengi Store Manager\Dengi Store Manager\obj\Debug\Dengi_Store_Manager.Form_fragments.SearchForm.resources
+C:\Users\Bcwin\source\repos\Dengi Store Manager\Dengi Store Manager\obj\Debug\Dengi_Store_Manager.HomeWindow.resources
+C:\Users\Bcwin\source\repos\Dengi Store Manager\Dengi Store Manager\obj\Debug\Dengi Store Manager.csprojAssemblyReference.cache
+C:\Users\Bcwin\source\repos\Dengi Store Manager\Dengi Store Manager\bin\Debug\LiveCharts.dll
+C:\Users\Bcwin\source\repos\Dengi Store Manager\Dengi Store Manager\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Bcwin\source\repos\Dengi Store Manager\Dengi Store Manager\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Bcwin\source\repos\Dengi Store Manager\Dengi Store Manager\bin\Debug\LiveCharts.pdb
+C:\Users\Bcwin\source\repos\Dengi Store Manager\Dengi Store Manager\bin\Debug\LiveCharts.xml
+C:\Users\Bcwin\source\repos\Dengi Store Manager\Dengi Store Manager\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Bcwin\source\repos\Dengi Store Manager\Dengi Store Manager\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Bcwin\source\repos\Dengi Store Manager\Dengi Store Manager\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Bcwin\source\repos\Dengi Store Manager\Dengi Store Manager\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Bcwin\source\repos\Dengi Store Manager\Dengi Store Manager\obj\Debug\Dengi_Store_Manager.Form_fragments.GraphForm.resources
